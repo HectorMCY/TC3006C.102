@@ -3,9 +3,13 @@ Project developed in Tecnológico de Monterrey, Campus Guadalajara
 Inteligencia artificial avanzada para la ciencia de datos I (Grupo 102)
 
 Integrantes del equipo:
+
 A01638034 | Álvaro Morán Errejón
+
 A01634615 | Héctor Manuel Cárdenas Yáñez
+
 A01625101 | Isaí Ambrocio
+
 A00227694 | Siddhartha López Valenzuela
 
 Normatividad correspondiente del reto:
