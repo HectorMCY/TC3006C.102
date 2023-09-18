@@ -1,6 +1,7 @@
 # TC3006C.102
 Project developed in Tecnológico de Monterrey, Campus Guadalajara
 Inteligencia artificial avanzada para la ciencia de datos I (Grupo 102)
+
 Integrantes del equipo:
 A01638034 | Álvaro Morán Errejón
 A01634615 | Héctor Manuel Cárdenas Yáñez
